@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="bold">resources/bold.png</file>
+<file alias="new">resources/add-file.png</file>
+<file alias="center">resources/center-align.png</file>
+<file alias="left">resources/left-align.png</file>
+<file alias="right">resources/right-align.png</file>
+<file alias="disk">resources/disk.png</file>
+<file alias="copy">resources/cpy.png</file>
+<file alias="fonts">resources/a-mark.png</file>
+<file alias="cut">resources/cut.png</file>
+<file alias="paste">resources/paste.png</file>
+<file alias="open">resources/open.png</file>
+<file alias="image">resources/photo.png</file>
+<file alias="color">resources/text.png</file>
+<file alias="redo">resources/red.png</file>
+<file alias="undo">resources/und.png</file>
+<file alias="fontred">resources/reduce.png</file>
+<file alias="menu">resources/manu.png</file>
+<file alias="underline">resources/underline.png</file>
+<file alias="notes">resources/notes.png</file>
+<file alias="font">resources/font-.png</file>
+<file alias="undoo">resources/undoo.png</file>
+</qresource>
+</RCC>
